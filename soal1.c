@@ -1,6 +1,6 @@
 int main() {
-    int a, b, c;
-    int max;
+    double a, b, c;
+    double max;
 
     printf("Masukkan sisi segitiga: ");
     scanf("%d %d %d", &a, &b, &c);
